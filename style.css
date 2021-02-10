@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#demo{
+	width: 800px;
+	height: 640px;
+	margin: 50px auto;
+	border: 2px solid black;
+	position: relative;
+}
+
+#image {
+	height: 80px;
+	width: 80px;
+	background: url('tank.png');
+	position: absolute;
+}
